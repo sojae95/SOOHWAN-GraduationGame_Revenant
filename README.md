@@ -18,3 +18,6 @@
 > Revenant : 죽음에서 돌아온자
 
 <br/><img src="https://user-images.githubusercontent.com/37572033/143385752-34db5397-fc3f-4e5d-8e5b-533f0b62c961.jpg" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="000"></img>
+
+
+##### 주인공 캐릭터를 고르면서 Paragon Game에서 무료로 배포한 게임캐릭터의 이름이 Revenant 였고 이ㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁ
