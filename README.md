@@ -39,3 +39,7 @@ Revenant 라고 작명하였습니다.
 
 <br/><img src="https://user-images.githubusercontent.com/37572033/143417333-6f949331-f975-457d-b72f-98e67cd58db4.png" width="20%" height="20%" title="px(픽셀) 크기 설정" alt="001"></img>
 
+
+
+고품질의 그래픽과 C/C++ 을 이용한 게임을 만들어보고싶어 언리얼4 엔진을    
+사용해 제작하였습니다.
