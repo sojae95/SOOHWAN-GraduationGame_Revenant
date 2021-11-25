@@ -50,4 +50,4 @@ Revenant 라고 작명하였습니다.
 ## 2-1. Game Flow
 > 전체적인 게임 구성도
 
-<br/><img src="https://user-images.githubusercontent.com/37572033/143422664-e3f05faf-6cb4-430e-a009-dec1cefdfbd3.PNG" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="002"></img>
+<br/><img src="https://user-images.githubusercontent.com/37572033/143422664-e3f05faf-6cb4-430e-a009-dec1cefdfbd3.PNG" width="50%" height="40%" title="px(픽셀) 크기 설정" alt="002"></img>
