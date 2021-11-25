@@ -16,4 +16,4 @@
 ## 1-1. 타이틀
 #### 1) 게임 타이틀
 > Revenant : 죽음에서 돌아온자
-<img src="https://user-images.githubusercontent.com/37572033/143385752-34db5397-fc3f-4e5d-8e5b-533f0b62c961.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="000"></img><br/>
+<img src="https://user-images.githubusercontent.com/37572033/143385752-34db5397-fc3f-4e5d-8e5b-533f0b62c961.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="000"></img>
