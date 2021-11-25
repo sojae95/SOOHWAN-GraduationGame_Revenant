@@ -1,1 +1,2 @@
-# SOOHWAN-GraduationGame_Revenant
+# Revenant : 죽음에서 돌아온자
+## 게임소프트웨어전공 이수환
