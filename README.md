@@ -16,7 +16,7 @@
 ## 1-1. 타이틀
 > Revenant : 죽음에서 돌아온자
 
-<br/><img src="https://user-images.githubusercontent.com/37572033/143385752-34db5397-fc3f-4e5d-8e5b-533f0b62c961.jpg" width="60%" height="60%" title="px(픽셀) 크기 설정" alt="000"></img>
+<br/><img src="https://user-images.githubusercontent.com/37572033/143385752-34db5397-fc3f-4e5d-8e5b-533f0b62c961.jpg" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="000"></img>
 
 
 
