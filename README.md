@@ -1,6 +1,6 @@
 # Revenant : 죽음에서 돌아온자
 ##### 게임소프트웨어전공 이수환
-### Youtube Link : https://youtu.be/GyvLDyCRtNE
+##### Youtube Link (게임 영상): https://youtu.be/GyvLDyCRtNE
 
 ## 목차
 * Revenant : 죽음에서 돌아온자
